@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dileeepa/.gradle/caches/modules-2/files-2.1/io.socket/engine.io-client/0.7.0/c1b1d30e2d2231b2eae1438a44943a409b976dac/engine.io-client-0.7.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c1b1d30e2d2231b2eae1438a44943a409b976dac">
+        <dex dex="/home/dileeepa/Desktop/socket.io-android-chat-master/app/build/intermediates/pre-dexed/debug/engine.io-client-0.7.0-9b1b36107ada44a7d55b729ed7c7ec3af77748ca.jar" />
+    </item>
+    <item
+        jar="/home/dileeepa/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/dileeepa/Desktop/socket.io-android-chat-master/app/build/intermediates/pre-dexed/debug/okio-1.6.0-889822ad063bb5f5ec69a0d57dd70a611468f518.jar" />
+    </item>
+    <item
+        jar="/home/dileeepa/Desktop/socket.io-android-chat-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/dileeepa/Desktop/socket.io-android-chat-master/app/build/intermediates/pre-dexed/debug/classes-fc2eee78f0f4b905a61169908656432b382c1ead.jar" />
+    </item>
+    <item
+        jar="/home/dileeepa/programs/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/dileeepa/Desktop/socket.io-android-chat-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-c951c835804a2f070d19f14f760ddbe583a2e866.jar" />
+    </item>
+    <item
+        jar="/home/dileeepa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.0.1/bd9b51a0188fc8f14bf840a0d326755545206116/okhttp-ws-3.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd9b51a0188fc8f14bf840a0d326755545206116">
+        <dex dex="/home/dileeepa/Desktop/socket.io-android-chat-master/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.0.1-0df5fbb6042301640221f815dc8e972e46f6673e.jar" />
+    </item>
+    <item
+        jar="/home/dileeepa/Desktop/socket.io-android-chat-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/dileeepa/Desktop/socket.io-android-chat-master/app/build/intermediates/pre-dexed/debug/classes-dbc8fbe48d28eb0a1af39294d0482e290d40b6b3.jar" />
+    </item>
+    <item
+        jar="/home/dileeepa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/home/dileeepa/Desktop/socket.io-android-chat-master/app/build/intermediates/pre-dexed/debug/okhttp-3.0.1-2311f0291d4cafc0308060b9188c39174409540a.jar" />
+    </item>
+    <item
+        jar="/home/dileeepa/Desktop/socket.io-android-chat-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/dileeepa/Desktop/socket.io-android-chat-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f437c4b55fddffb103ead2917a66db4d44433dff.jar" />
+    </item>
+    <item
+        jar="/home/dileeepa/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/0.7.0/ce278c97bc9f74c7945d647f6d441d6013163362/socket.io-client-0.7.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ce278c97bc9f74c7945d647f6d441d6013163362">
+        <dex dex="/home/dileeepa/Desktop/socket.io-android-chat-master/app/build/intermediates/pre-dexed/debug/socket.io-client-0.7.0-10522c70f2efd8f05a891f0e919b62b5dcb005bb.jar" />
+    </item>
+    <item
+        jar="/home/dileeepa/Desktop/socket.io-android-chat-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/dileeepa/Desktop/socket.io-android-chat-master/app/build/intermediates/pre-dexed/debug/classes-eba0d47a91a1dc3737a9d0f85832cf77ba0c4764.jar" />
+    </item>
+
+</items>
